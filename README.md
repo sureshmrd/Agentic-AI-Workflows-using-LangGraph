@@ -79,8 +79,4 @@ streamlit run app.py
 - Add tests for node outputs and graph assembly.
 
 **License**
-- No license included. Add your preferred license file if you plan to share this repository.
-
----
-
-_(README automatically created and summarizes files found in the repository.)_
+- No license included. This is based on learnings from different sources and from Krish Naik mainly.
