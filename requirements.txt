@@ -6,3 +6,4 @@ langchain_groq
 faiss_cpu
 streamlit
 tavily-python
+langchain-tavily
